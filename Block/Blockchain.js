@@ -1,6 +1,6 @@
 const BlockCrypto = require("./BlockCrypto");
 
-class Blockchain {
+class BlockChain {
     constructor() {
         this.block1chain = [this.initGenesisBlock()];
         this.difficulty = 5;
@@ -38,4 +38,4 @@ class Blockchain {
     }
 }
 
-module.exports = Blockchain;
+module.exports = BlockChain;

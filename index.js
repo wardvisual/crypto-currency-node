@@ -1,7 +1,7 @@
-const Blockchain = require("./classes/Blockchain");
-const BlockCrypto = require("./classes/BlockCrypto");
+const BlockChain = require("./Block/BlockChain");
+const BlockCrypto = require("./Block/BlockCrypto");
 
-let cryptoCoin = new Blockchain();
+let cryptoCoin = new BlockChain();
 
 console.log("CryptoCoin mining is progressing...");
 
