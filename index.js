@@ -1,5 +1,5 @@
-const Blockchain = require("./classes/blockchain");
-const BlockCrypto = require("./classes/blockCrypto");
+const Blockchain = require("./classes/Blockchain");
+const BlockCrypto = require("./classes/BlockCrypto");
 
 let cryptoCoin = new Blockchain();
 
