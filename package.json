@@ -9,7 +9,7 @@
     },
     "keywords": [],
     "author": "Edward Fernandez",
-    "license": "ISC",
+    "license": "MIT",
     "dependencies": {
         "crypto-js": "^4.1.1"
     }
