@@ -1,4 +1,4 @@
-const BlockCrypto = require("./blockCrypto");
+const BlockCrypto = require("./BlockCrypto");
 
 class Blockchain {
     constructor() {
