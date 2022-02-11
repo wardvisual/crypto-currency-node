@@ -1,5 +1,5 @@
-const BlockChain = require("./Block/BlockChain");
-const BlockCrypto = require("./Block/BlockCrypto");
+const BlockChain = require("./BlockChain");
+const BlockCrypto = require("./BlockCrypto");
 
 let cryptoCoin = new BlockChain();
 
